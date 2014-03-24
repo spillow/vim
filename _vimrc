@@ -16,6 +16,8 @@ filetype plugin on
 
 syntax on
 
+set backspace=indent,eol,start
+
 " line numbering
 set nu
 
